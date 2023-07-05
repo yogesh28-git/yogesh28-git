@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![MastHead](https://github.com/yogesh28-git/yogesh28-git/blob/main/yogesh-portfolio.png)](https://dhiraj57.github.io/)
+[![MastHead](https://github.com/yogesh28-git/yogesh28-git/blob/main/yogesh-portfolio.png)](https://yogesh28-git.github.io/Yogesh28.github.io)
 
 # Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/yogesh-krishnan-s-44ba7714a/" target="_blank"> Yogesh Krishnan S! </a> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
