@@ -11,15 +11,10 @@
 I am a game developer who eats problems for breakfast 😋. I wander lands in search of challeneges and they get etched with my name of glory. Challenging myself and levelling up through the fantastic journey of game development. When it gets tough, we level up.
 
 </div> 
- 
-### Check out my latest creations on my [YouTube Channel](https://www.youtube.com/channel/UC0IIGVFJE3vCvDO0FXDnQwg). Here are some of my recent projects:
- 
-<br/>
-
-[![Dhiraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhiraj57&theme=react-dark)](https://github.com/Dhiraj57/github-readme-activity-graph)
 
 <br/>
-
+Here are some of my recent projects:
+<br/><br/>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -50,26 +45,11 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
  
  <br/>
  
-![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
+![Dino](https://raw.githubusercontent.com/yogesh28-git/yogesh28-git/main/dino.gif)
 
  <br/>
- 
- 
- <table>
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=Dhiraj57&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dhiraj Magdum" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj57&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dhiraj Magdum" /></td>
-  </tr>
-</table>
 
-<!-- Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj57&theme=dark" alt="Dhiraj Magdum" /></p>
-  
- 
 
-<!-- My contribution graph : -->
-![Watch my contribution graph !](https://github.com/Dhiraj57/Dhiraj57/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
