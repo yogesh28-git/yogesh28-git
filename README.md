@@ -19,7 +19,7 @@ Here are some of my recent projects:
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Robo Brawl](https://github.com/yogesh28-git/Robo-Brawl)     | 3D shooting game, single player
-| [Robo Brawl](https://github.com/yogesh28-git/MakeNewWay)     | 3D Puzzle game
+| [Make New Way](https://github.com/yogesh28-git/MakeNewWay)     | 3D Puzzle game
 | [Chest System](https://github.com/yogesh28-git/Chest-System)   | Chest unlocking system
 | [Cowardly Hunter](https://github.com/yogesh28-git/Cowardly-Hunter)     | Endless runner game, hunting tigers
 | [Snake Master](https://github.com/yogesh28-git/SnakeMaster)     | 2D Snake game with singleplayer and death match modes
